@@ -41,3 +41,14 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+*.pbm
+*.png
+*.exe
+/font_converter/output
+*.hexproj
+*.sfd
+/misaki_bdf_2021-05-05
+/misaki_png_2021-05-05a
+*.jpg
+*.bdf
+*.ttf
