@@ -1,0 +1,3 @@
+[submodule "submodule/PIC18F27Q43_SSD1306_Driver"]
+	path = submodule/PIC18F27Q43_SSD1306_Driver
+	url = https://github.com/Kojima-Hiroki-asdfghjkl/PIC18F27Q43_SSD1306_Driver
