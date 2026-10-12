@@ -52,3 +52,9 @@ fp-info-cache
 *.jpg
 *.bdf
 *.ttf
+/unifont-18.0.01
+walkman_logo.bmp
+walkman_logo_2.bmp
+walkman_logo_2b.bmp
+misaki_ssd1306_out.bin
+font_output_flash.bin
